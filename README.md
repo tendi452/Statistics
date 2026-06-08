@@ -46,4 +46,11 @@ square root of the variance.
 it is dependent on the variance.
 it is commonly used when defining outliers.
 '''
+Task 1 
+the mean woud be most useful to this scenario
+the mode would be most be useful in this scenario
+the mean would be most useful in this scenario. 
 
+part 2 
+the variance will be used as it would show the variability of the data with respect to the mean value.
+The standaard deviation will be used as it rpresents the deviation of the data/variables. 
